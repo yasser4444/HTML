@@ -2,6 +2,10 @@ body
 {
     background-color: aqua;
 }
+img
+{
+    width: 100%
+}
 legend
 {
     color: salmon;
@@ -37,4 +41,11 @@ a
 p:hover
 {
     text-decoration: underline
+}
+@media only screen and (max-width: 245px) {
+    
+    .img{
+        width: 100%
+    }   
+    
 }
