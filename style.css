@@ -42,7 +42,7 @@ p:hover
 {
     text-decoration: underline
 }
-@media only screen and (max-width: 1px) {
+@media only screen and (max-width: 245px) {
     
     .img{
         width: 100%
